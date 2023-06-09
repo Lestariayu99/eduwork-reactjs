@@ -1,13 +1,14 @@
 import React from "react";
-import Sass from "./Sass";
+import Styled from "./Styled";
 
 export default class Styling extends React.Component {
     
     render() {
         return (
             <div>
-                <Sass /> 
+                <Styled />
             </div>
         )
     }
 }
+  
