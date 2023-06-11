@@ -11,6 +11,10 @@ const Button = styled.button`
     border-color;
     border-color: #2196f3;
     color: dodgerblue;
+
+    &:hover {
+        background : #2196f3;
+        color: white;
 `;
 
 export default class Styled extends React.Component {
