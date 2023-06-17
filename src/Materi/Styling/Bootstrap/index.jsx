@@ -12,7 +12,7 @@ function App() {
 
       <main>
         <section className="profile">
-          <img src="photo.png" alt="" /> 
+          <img src="./photo.png" alt="" /> 
           <h5 style={{ fontSize: '0.8em' }}>Ayu Lestari</h5>
 
         </section>

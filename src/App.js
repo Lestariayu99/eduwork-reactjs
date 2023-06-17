@@ -1,11 +1,10 @@
-import Styling from "./Materi/Styling/inde";
+import Form from "./Materi/Form";
 
 
 function App() {
   return (
     <div className="App">
-      <Styling />
-     
+      <Form />
     </div>
   );
 }
